@@ -157,5 +157,5 @@ client.on("message", async message => {
   }
 });
 
-client.login(`bottokengir`);
+client.login(`bottokengir`);MTI1MTc5NjI5Njk0MDEzMDMzNg.GpKDE1.F-YWpjW53A4qgWKnhQad3Id2OhSVlv7dTOcl3c
 
